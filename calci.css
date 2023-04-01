@@ -1,0 +1,162 @@
+
+
+#main {
+
+  text-align: center;
+
+}
+
+#innerbox {
+
+  background-color: rgb(115, 241, 255);
+  width: 300px;
+  text-align: center;
+  margin: auto;
+
+}
+
+#one {
+
+ background-color: red;
+ color: yellow;
+ width: 35px;
+ border: 5px solid black;
+
+}
+
+#two {
+
+     background-color: red;
+     color: yellow;
+     width: 35px;
+     border: 5px solid black;
+
+}
+
+
+#three {
+
+ background-color: red;
+ color: yellow;
+ width: 35px;
+ border: 5px solid black
+
+}
+
+#four {
+
+ background-color: red;
+ color: yellow;
+ width: 35px;
+ border: 5px solid black
+
+}
+
+#five {
+
+ background-color: red;
+ color: yellow;
+ width: 35px;
+ border: 5px solid black
+
+}
+
+#six {
+
+ background-color: red;
+ color: yellow;
+ width: 35px;
+ border: 5px solid black
+
+}
+
+#seven {
+
+ background-color: red;
+ color: yellow;
+ width: 35px;
+ border: 5px solid black
+
+}
+
+#eight {
+
+ background-color: red;
+ color: yellow;
+ width: 35px;
+ border: 5px solid black
+
+}
+
+#nine {
+
+ background-color: red;
+ color: yellow;
+ width: 35px;
+ border: 5px solid black
+
+}
+
+#zero {
+
+ background-color: red;
+ color: yellow;
+ width: 35px;
+ border: 5px solid black
+
+}
+
+#add {
+
+ background-color: red;
+ color: yellow;
+ width: 35px;
+ border: 5px solid black
+
+}
+
+#sub {
+
+ background-color: red;
+ color: yellow;
+ width: 35px;
+ border: 5px solid black
+
+}
+
+#mul {
+
+ background-color: red;
+ color: yellow;
+ width: 35px;
+ border: 5px solid black
+
+}
+
+#divide {
+
+ background-color: red;
+ color: yellow;
+ width: 35px;
+ border: 5px solid black
+
+}
+
+#result {
+
+background-color: rgb(238, 0, 0);
+
+}
+
+
+#clear {
+
+    background-color: red;
+    color: yellow;
+    width: 35px;
+    border: 5px solid black
+
+}
+
+
+
